@@ -1,0 +1,5 @@
+C:\xampp\htdocs\asp.net\yos hello world\yos hello world\bin\yos hello world.dll
+C:\xampp\htdocs\asp.net\yos hello world\yos hello world\bin\yos hello world.pdb
+C:\xampp\htdocs\asp.net\yos hello world\yos hello world\obj\Debug\yos hello world.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\asp.net\yos hello world\yos hello world\obj\Debug\yos hello world.dll
+C:\xampp\htdocs\asp.net\yos hello world\yos hello world\obj\Debug\yos hello world.pdb
